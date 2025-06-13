@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ZYNC - Streetwear Giyim</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0a0a0a;
+      color: #fff;
+    }
+    header {
+      background-color: #000;
+      padding: 60px 20px 40px;
+      text-align: center;
+    }
+    header img {
+      width: 180px;
+      margin-bottom: 25px;
+    }
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #aaa;
+    }
+    main {
+      padding: 50px 20px;
+      text-align: center;
+    }
+    section {
+      margin-bottom: 60px;
+    }
+    h2 {
+      font-size: 2em;
+      margin-bottom: 10px;
+      color: #00ffff;
+    }
+    p {
+      font-size: 1.1em;
+      color: #ccc;
+    }
+    a {
+      color: #00ffff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      background-color: #000;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="zync_logo_resized.png" alt="ZYNC Logo" />
+  <h1>ZYNC STREETWEAR</h1>
+  <p>Tarzını yansıt, sokaklara hükmet</p>
+</header>
+
+<main>
+  <section>
+    <h2>Yeni Koleksiyon Çok Yakında</h2>
+    <p>Oversize tişörtler geliyor... Modern ve cesur stillerle kendi tarzını oluştur!</p>
+  </section>
+
+  <section>
+    <h2>Bize Ulaş</h2>
+    <p>📧 <a href="mailto:thezyncwear@gmail.com">thezyncwear@gmail.com</a></p>
+    <p>📸 <a href="https://instagram.com/zync" target="_blank">Instagram: @zync</a></p>
+    <p>🎵 <a href="https://tiktok.com/@samticin" target="_blank">TikTok: @samticin</a></p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 ZYNC Streetwear. Tüm hakları saklıdır.</p>
+</footer>
+
+</body>
+</html>
